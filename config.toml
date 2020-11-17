@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sunrise Silver Spring"
+theme="sunrise-bay-area"
