@@ -1,0 +1,3 @@
+[submodule "themes/sunrise-bay-area"]
+	path = themes/sunrise-bay-area
+	url = git@github.com:sunrise-bay-area/sunrise-hub.git
