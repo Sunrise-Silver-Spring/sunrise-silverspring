@@ -6,7 +6,7 @@ name: Pages Deploy
 # events but only for the main branch
 on:
   push:
-    branches: [ main ]
+    branches: [ deploy-action ]
   pull_request:
     branches: [ main ]
 
