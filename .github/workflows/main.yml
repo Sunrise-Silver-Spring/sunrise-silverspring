@@ -6,7 +6,7 @@ name: Pages Deploy
 # events but only for the main branch
 on:
   push:
-    branches: [ main ]
+    branches: [ deploy-action ]
   pull_request:
     branches: [ main ]
 
@@ -31,4 +31,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: ./sunrise-silverspring/public # The folder the action should deploy.
+          FOLDER: docs # The folder the action should deploy.
