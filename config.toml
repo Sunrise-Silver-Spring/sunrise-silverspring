@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "kadensu.github.io/sunrise-silverspring/"
 languageCode = "en-us"
 title = "Sunrise Silver Spring"
 theme="sunrise-bay-area"
+publishDir = "docs"
