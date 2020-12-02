@@ -1,4 +1,4 @@
-baseURL = "kadensu.github.io/sunrise-silverspring/"
+baseURL = "https://kadensu.github.io/sunrise-silverspring/"
 languageCode = "en-us"
 title = "Sunrise Silver Spring"
 theme="sunrise-bay-area"
