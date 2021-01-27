@@ -1,7 +1,7 @@
 baseURL = "https://kadensu.github.io/sunrise-silverspring/"
 languageCode = "en-us"
 title = "Sunrise Silver Spring"
-theme="sunrise-bay-area"
+theme="sunrise-hub"
 
 [markup.goldmark.renderer]
 unsafe= true
