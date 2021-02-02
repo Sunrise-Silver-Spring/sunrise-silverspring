@@ -2,7 +2,7 @@
 title: Sunrise Silver Spring
 mastheadImage: img/splashpage-grey.png
 bannerWelcome: Join the movement for a livable future
-joinUrl: smvmt.org/ss-sign-up
+joinUrl: https://smvmt.org/ss-sign-up
 joinText: Join Sunrise Silver Spring
 ---
 # Sunrise Silver Spring
