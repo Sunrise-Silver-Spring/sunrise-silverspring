@@ -7,11 +7,6 @@ joinText: Join Sunrise Silver Spring
 ---
 # Sunrise Silver Spring
 
-Join the movement to create a more livable world
-
-Hello world
-
-
 <div class="row">
   <div class="col">
     <img src="/img/sba-endorsements.png">
