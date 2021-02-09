@@ -3,11 +3,9 @@ navbarNameTop: Sunrise Movement
 navbarNameBottom: Silver Spring
 joinUrl: https://srba.fyi/join
 menuItems:
-  - text: Blog
-    url: https://srba.fyi/blog
   - text: Donate
     url: https://srba.fyi/donate
 banner:
-  url: https://srba.fyi/2020ElectoralGuide
-  text: Learn how you can elect Green New Deal champions and defeat Trump.
-  id: election2020-10-09
+  url: ""
+  text: ""
+  id: ""
