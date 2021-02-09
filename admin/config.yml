@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
-  repo: kadensu/sunrise-silverspring # Your username and repository
+  repo: Sunrise-Silver-Spring/sunrise-silverspring # Your username and repository
   base_url: https://us-central1-sunrise-ss-hub-website.cloudfunctions.net/
   auth_endpoint: /oauth/auth # The path to the OAuth endpoint of the function
-site_url: https://kadensu.github.io/sunrise-silverspring/
+site_url: sunrisesilverspring.org
