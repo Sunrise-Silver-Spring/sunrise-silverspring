@@ -1,6 +1,6 @@
 ---
 title: Sunrise Silver Spring
-mastheadImage: img/splashpage-grey.png
+mastheadImage: /img/climatemandaterallyaoc.jpg
 bannerWelcome: Join the movement for a livable future
 joinUrl: https://smvmt.org/ss-sign-up
 joinText: Join Sunrise Silver Spring
