@@ -11,6 +11,6 @@ joinText: Join Sunrise Silver Spring
 
 {{< parallax-block image="/img/sbapelosiaction.jpg" >}}
 
-{{< text-block title="" text="Sunrise Silver Spring has a “snowflake” structure, with a few large teams and sub-teams within them that all do different work. All teams connect back to the hub coordinators who plan actions and intentions across the hub." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
+{{< text-block title="Hub Structure" text="Sunrise Silver Spring has a “snowflake” structure, with a few large teams and sub-teams within them that all do different work. All teams connect back to the hub coordinators who plan actions and intentions across the hub." button-text-1="" button-url-1="" button-text-2="" button-url-2="" >}}
 
 {{< image-block image="/img/sunrisehubstructure.png" >}}
