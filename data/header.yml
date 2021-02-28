@@ -5,6 +5,8 @@ joinUrl: https://smvmt.org/ss-sign-up
 menuItems:
   - text: Donate
     url: https://secure.actblue.com/donate/sunrisesilverspring
+  - text: About
+    url: about
 banner:
   url: ""
   text: ""
