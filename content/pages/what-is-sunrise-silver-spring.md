@@ -8,5 +8,3 @@ menu: []
 {{< image-block image="/img/bidenhq.jpg" >}}
 
 {{< wide-image-block image="/img/gettinginvolved.png" >}}
-
-{{< text-block title="" text="" button-text-1="Join the movement" button-url-1="https://smvmt.org/ss-sign-up" button-text-2="" button-url-2="" >}}
